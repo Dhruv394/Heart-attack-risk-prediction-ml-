@@ -1,8 +1,6 @@
 # Heart-attack-risk-prediction-ml-
 An end-to-end Machine Learning project that predicts the risk of heart attack using patient health and lifestyle data. This project covers the complete Data Science workflow, including data preprocessing, exploratory data analysis (EDA), feature engineering, model training, hyperparameter tuning, and performance evaluation.
 
----
-
 ## 📌 Project Overview
 
 Heart disease remains one of the leading causes of death worldwide. Early prediction of heart attack risk can help healthcare professionals identify high-risk individuals and take preventive measures.
